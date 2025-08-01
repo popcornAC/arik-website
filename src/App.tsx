@@ -51,6 +51,9 @@ function App() {
         <p style={{ fontSize: '1.1rem', marginBottom: '0.75rem', color: '#444' }}>
           Currently working in fintech, building scalable services, and modernizing legacy platforms.
         </p>
+        <p style={{ fontSize: '1.1rem', marginBottom: '0.75rem', color: '#444' }}>
+          Currently holding a senior engineering role at my current place of work, focusing on core banking infrastructure.
+        </p>
         <p style={{ fontSize: '1.1rem', marginTop: '1.5rem' }}>
           <a href="mailto:arikc6402@gmail.com" style={{
             color: '#0077cc',
