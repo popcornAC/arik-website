@@ -1,11 +1,6 @@
 import './App.css'
-import { useEffect } from 'react';
 
 function App() {
-  useEffect(() => {
-    document.title = "Arik Chowdhury | Software Engineer";
-  }, []);
-
   return (
     <div style={{
       display: 'flex',
