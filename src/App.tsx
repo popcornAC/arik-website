@@ -3,13 +3,13 @@ import './App.css'
 function App() {
   return (
     <div style={{
+      width: '100%',
+      minHeight: '100vh',
+      fontFamily: 'Inter, sans-serif',
+      padding: '2rem',
       display: 'flex',
       justifyContent: 'center',
-      alignItems: 'center',
-      minHeight: '100vh',
-      background: 'linear-gradient(135deg, #e0f7fa, #ffffff)',
-      fontFamily: 'Inter, sans-serif',
-      padding: '2rem'
+      alignItems: 'center'
     }}>
       <div style={{
         background: 'rgba(255, 255, 255, 0.6)',
